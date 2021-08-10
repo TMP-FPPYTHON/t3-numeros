@@ -9,7 +9,7 @@ input_values = [
     # Test case 1
     (
         [""],
-        ["Hello World!"],
-        "Debe salir\nHello World!"
+        ["6.666666666666667"],
+        "Debe salir el promedio de los numeros de la lista"
     )
 ]
