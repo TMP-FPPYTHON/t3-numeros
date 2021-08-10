@@ -1,4 +1,4 @@
-# Ejercicios Básicos!
+# Ejercicios Ciclos For!
 
 ## Configuración de pruebas con **pytest**
 
@@ -8,8 +8,13 @@
 pip3 install pytest
 ```
 
-- ## 00 Hello World
+- ## 00 Suma Pares
     ### Run command
     ```
-    pytest assignments/00HelloWorld
+    pytest assignments/00SumaPares
+    ```
+- ## 01 Promedio
+    ### Run command
+    ```
+    pytest assignments/01Promedio
     ```

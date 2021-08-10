@@ -1,3 +1,4 @@
-# Ejercicios Básicos!
+# Ejercicios Ciclos For!
 
-- 00 Hello World
+- 00 SumaPares
+- 01 Promedio
