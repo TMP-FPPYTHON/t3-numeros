@@ -16,6 +16,11 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
 
+Escriba un programa Python que calcule el promedio de los siguientes valores incluidos en una **lista**:
+```
+4, 3, 7, 2, 9, 10, 15, 1, 6, 7, 2, 1, 20, 5, 8
+```
+
 La salida del programa debe de ser exactamente de la siguiente forma:
 
 ```
