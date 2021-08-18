@@ -16,7 +16,7 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
 
-Escriba un programa Python que calcule y despliegue la suma de números pares del 2 hasta 300
+Escriba un programa Python que calcule y despliegue la suma de números pares del `2` hasta `300`
 
 La salida del programa debe de ser exactamente de la siguiente forma:
 
